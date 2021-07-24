@@ -1,5 +1,3 @@
-# Unit 19 PWA Homework: Online/Offline Budget Trackers
-
 ## Overview
 
 For this assignment, you'll add functionality to our existing Budget Tracker application to allow for offline access and functionality.
@@ -22,7 +20,7 @@ When brought back online:
 
   * the URL to the deployed application https://budget-trackers1234.herokuapp.com/
 
-  * the URL to the Github repository https://github.com/SusanSu123/Homework-week-19.git
+  * the URL to the Github repository https://github.com/SusanSu123/PWA-Online-Offline-Budget-Trackers.git
 
 
 ## Prequisites
